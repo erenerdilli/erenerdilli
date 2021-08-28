@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erenerdilli
 - 👀 I’m interested in web, mobile and game development
 - 🌱 I’m currently learning unity and js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile projects
 - 📫 How to reach me: don't
 
 <!---
