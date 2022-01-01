@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @erenerdilli
+- 👋 Hi, I’m a java developer
 - 👀 I’m interested in web, mobile and game development
 - 🌱 I’m currently learning unity and js
 - 💞️ I’m collaborating on mobile projects
-- 📫 How to reach me: don't
 
 <!---
 erenerdilli/erenerdilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
