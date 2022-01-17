@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a software developer
 - 👀 I’m interested in web, mobile and game development
-- 🌱 Currently learning: AWS, neo4j, Elastic
+- 🌱 Currently learning: AWS, Neo4j, Elastic
 - 💞️ Collaborating on mobile, web and games
 
 <!---
