@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a software developer
 - 👀 I’m interested in web, mobile and game development
-- 🌱 I’m currently learning unity and js
-- 💞️ I’m collaborating on mobile projects
+- 🌱 Currently learning: AWS, neo4j, Elastic
+- 💞️ Collaborating on mobile, web and games
 
 <!---
 erenerdilli/erenerdilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
