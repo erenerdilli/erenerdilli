@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a java developer
+- 👋 Hi, I’m a software developer
 - 👀 I’m interested in web, mobile and game development
 - 🌱 I’m currently learning unity and js
 - 💞️ I’m collaborating on mobile projects
