@@ -1,4 +1,4 @@
-<h1 align="center">This is Eren</h1>
+<h1 align="left">This is Eren</h1>
 
 - 👋 Hi, I’m a software developer
 - 👀 I’m interested in web, mobile and game development
