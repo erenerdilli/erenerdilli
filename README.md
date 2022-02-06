@@ -1,6 +1,8 @@
 <h1 align="left">This is Eren</h1>
 
-- 👋 Hi, I’m a software developer
+<img height="124em"  src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47qodqko8hpzcki8iu6ocyodcv3a25o7iturhwtdhp&rid=giphy.gif&ct=g" />
+
+- 👋 Hi, I'm a software developer
 - 👀 I’m interested in web, mobile and game development
 - 🌱 Currently learning: AWS, Neo4j, Elastic, React and React Native
 - 💞️ Collaborating on mobile and web projects, as well as games
