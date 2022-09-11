@@ -2,10 +2,10 @@
 
 <img height="124em"  src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47qodqko8hpzcki8iu6ocyodcv3a25o7iturhwtdhp&rid=giphy.gif&ct=g" />
 
-- 👋 Hi, I'm a software developer
-- 👀 I’m interested in web, mobile and game development
-- 🌱 Currently learning: AWS, Elastic, React and React Native
-- 💞️ Collaborating on mobile and web projects, as well as games
+- 👋 Hi, this is Eren, I'm a human. I develop software sometimes. Emphasis on sometimes. Outside of that I do other human stuff like sleeping, eating and moving.
+- 👀 I’m interested in creating. Sometimes I just talk and sometimes I actually create. But mostly talk... When I do create, it generally takes place in areas like web, mobile and game development
+- 🌱 Currently learning: AWS/Azure, Elastic, React/React Native. That's one long learning curve...
+- 💞️ Collaborating on mobile apps, web apps and games. If you have an idea, pitch it to me and I can talk the hell out of it. Yeah... And if I feel like it, I can write you a backend service. I hope to write you a ui too one day when above learning curve ends (doesn't look like it will end soon)
 
 <h3 align="left">Stats</h3>
 
