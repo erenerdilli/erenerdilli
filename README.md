@@ -12,24 +12,24 @@
 
 <h3 align="left">Languages, Tools and Other Fancy Images</h3>
 <p>
-  <img height="48em" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java 8/11/17+" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring and Spring Boot" />
-  <img height="48em" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" />
-  <img height="48em" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" />
-  <img height="48em" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" />
+  <a href="https://www.java.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java 8/11/17+" /></a>
+  <a href="https://spring.io/"><img height="48em" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring and Spring Boot" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="48em" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" /></a>
+  <a href="https://unity.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" /></a>
+  <a href="https://www.javascript.com/"><img height="48em" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" /></a>
+  <a href="https://git-scm.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" /></a>
+  <a href="https://www.jenkins.io/"><img height="48em" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" /></a>
+  <a href="https://www.docker.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" /></a>
+  <a href="https://hibernate.org/"><img height="48em" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></a>
+  <a href="https://www.postgresql.org/"><img height="48em" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" /></a>
+  <a href="https://www.oracle.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" /></a>
+  <a href="https://www.mongodb.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" /></a>
+  <a href="https://cassandra.apache.org/"><img height="48em" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" /></a>
+  <a href="https://kafka.apache.org/"><img height="48em" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" /></a>
+  <a href="https://www.rabbitmq.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" /></a>
+  <a href="https://redis.io/"><img height="48em" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" /></a>
+  <a href="https://html.com/"><img height="48em" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="48em" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" /></a>
 </p>
 <h3 align="left">Stats</h3>
 <p>
