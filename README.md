@@ -12,32 +12,34 @@
 
 <h3 align="left">Languages, Tools and Other Fancy Images</h3>
 <p>
-  <a href="https://java.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java 8/11/17+" /></a>
-  <a href="https://spring.io/"><img height="40em" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring and Spring Boot" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40em" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" /></a>
-  <a href="https://unity.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" /></a>
-  <a href="https://javascript.com/"><img height="40em" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" /></a>
-  <a href="https://git-scm.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" /></a>
-  <a href="https://jenkins.io/"><img height="40em" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" /></a>
-  <a href="https://docker.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" /></a>
-  <a href="https://hibernate.org/"><img height="40em" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></a>
-  <a href="https://postgresql.org/"><img height="40em" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" /></a>
-  <a href="https://oracle.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" /></a>
-  <a href="https://mysql.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" /></a>
-  <a href="https://mongodb.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" /></a>
-  <a href="https://cassandra.apache.org/"><img height="40em" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" /></a>
-  <a href="https://aws.amazon.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" /></a>
-  <a href="https://kafka.apache.org/"><img height="40em" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" /></a>
-  <a href="https://rabbitmq.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" /></a>
-  <a href="https://redis.io/"><img height="40em" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" /></a>
-  <a href="https://html.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40em" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" /></a>
-  <a href="https://elastic.co/kibana/"><img height="40em" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" /></a>
-  <a href="https://linux.org/"><img height="40em" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" /></a>
-  <a href="https://jetbrains.com/idea/"><img height="40em" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Intellij" /></a>
-  <a href="https://code.visualstudio.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" /></a>
-  <a href="https://postman.com/"><img height="40em" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
-  <a href="https://atlassian.com/software/jira"><img height="40em" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" /></a>
+  <a href="https://java.com/ target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java 8/11/17+" /></a>
+  <a href="https://spring.io/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring and Spring Boot" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="40em" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" /></a>
+  <a href="https://unity.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" /></a>
+  <a href="https://javascript.com/" target="_blank"><img height="40em" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" /></a>
+  <a href="https://jenkins.io/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" /></a>
+  <a href="https://docker.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" /></a>
+  <a href="https://hibernate.org/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></a>
+  <a href="https://postgresql.org/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" /></a>
+  <a href="https://oracle.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" /></a>
+  <a href="https://mysql.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" /></a>
+  <a href="https://mongodb.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" /></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" /></a>
+  <a href="https://rabbitmq.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" /></a>
+  <a href="https://redis.io/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" /></a>
+  <a href="https://html.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" /></a>
+  <a href="https://elastic.co/kibana/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" /></a>
+  <a href="https://linux.org/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" /></a>
+  <a href="https://jetbrains.com/idea/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Intellij" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" /></a>
+  <a href="https://postman.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
+  <a href="https://atlassian.com/software/jira" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" /></a>
+  <a href="https://www.akc.org/dog-breeds/siberian-husky/" target="_blank"><img height="40em" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/siberian-husky-3470544-2903417.png" alt="Husky" /></a>
+  <a href="https://www.redbull.com/gb-en/tags/snowboarding" target="_blank"><img height="40em" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/snowboard-3005711-2514046.png" alt="Snowboard" /></a>
 </p>
 <h3 align="left">Stats</h3>
 <p>
