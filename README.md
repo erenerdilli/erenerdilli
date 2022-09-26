@@ -12,8 +12,8 @@
 
 <h3 align="left">Languages, Tools and Other Fancy Images</h3>
 <p>
-  <a href="https://java.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java 8/11/17+" /></a>
-  <a href="https://spring.io/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring and Spring Boot" /></a>
+  <a href="https://java.com/" target="_blank" ><img height="40em" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java 8/11/17+" /></a>
+  <a href="https://spring.io/" target="_blank" ><img height="40em" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring and Spring Boot" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="40em" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" /></a>
   <a href="https://unity.com/" target="_blank"><img height="40em" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" /></a>
   <a href="https://javascript.com/" target="_blank"><img height="40em" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" /></a>
