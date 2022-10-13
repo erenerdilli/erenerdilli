@@ -2,7 +2,7 @@
 
 <img height="124em"  src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47qodqko8hpzcki8iu6ocyodcv3a25o7iturhwtdhp&rid=giphy.gif&ct=g" />
 
-- 👋 Hi, this is Eren, I'm a human. I develop software sometimes. Emphasis on sometimes. Outside of that I do other human stuff like sleeping, eating and moving.
+- 👋 Hi, this is Eren, I'm a human. I develop software sometimes. Besides that I do other human stuff like sleeping, eating and moving.
 
 - 👀 I’m interested in creating. Sometimes I just talk and sometimes I actually create. But mostly talk... When I do create, it generally takes place in areas like web, mobile and game development.
 
