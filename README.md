@@ -4,7 +4,7 @@
 
 - 👋 Hi, this is Eren, I'm a human. I develop software sometimes. Besides that I do other human stuff like sleeping, eating and moving.
 
-- 👀 I’m interested in creating. Sometimes I just talk and sometimes I actually create. But mostly talk... When I do create, it generally takes place in areas like web, mobile and game development.
+- 👀 I’m interested in creating. Sometimes I just talk about creating and sometimes I actually create. But mostly talk... When I do create, it generally takes place in areas like web, mobile and game development.
 
 - 🌱 I'm currently learning: AWS/Azure, Elastic, React/React Native... That's one long learning curve...
 
