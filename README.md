@@ -40,7 +40,8 @@
   <a href="https://atlassian.com/software/jira"><img height="40em" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title="Jira" /></a>
   <a href="https://www.akc.org/dog-breeds/siberian-husky/"><img height="40em" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/siberian-husky-3470544-2903417.png" title="Huskies" /></a>
   <a href="https://www.redbull.com/gb-en/tags/snowboarding"><img height="40em" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/snowboard-3005711-2514046.png" title="Snowboarding" /></a>
-  <a href="https://www.redbull.com/us-en/tags/aerobatic-flying"><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Aerobatics_pictogram.svg" title="Aerobatic Flying" /></a> 
+  <a href="https://www.redbull.com/us-en/tags/aerobatic-flying"><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Aerobatics_pictogram.svg" title="Aerobatic Flying" /></a>
+  <a href="https://www.nba.com/"><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/668-basketball.svg" title="Basketball" /></a>
 </p>
 <h3 align="left">Stats</h3>
 <p>
